@@ -6,7 +6,7 @@
 [![GitHub phamtien1709](https://img.shields.io/github/followers/phamtien1709?label=follow&style=social)](https://github.com/phamtien1709)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me... 
 
 <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=phamtien1709&show_icons=true&theme=swift"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
 
@@ -20,6 +20,6 @@ const titus = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
