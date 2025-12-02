@@ -8,7 +8,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me... 
 
-<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=phamtien1709&show_icons=true&theme=swift"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamtien1709&theme=zenburn)
 
 ```javascript
 const titus = {
